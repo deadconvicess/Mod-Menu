@@ -1,14 +1,18 @@
-This mod menu is still undetected to this day :)
+Family Mod Menu — Full Version
+----------------------------------
 
-1. Download the loader
-2. Open RDR2 then open the loader
-3. When in the game press F4
+This mod menu is still undetected as of today.
 
-This is the version that works & und
+How to Use:
+1. Download the loader.
+2. Launch Red Dead Redemption 2.
+3. Open the loader.
+4. Once you're in-game, press F4 to open the menu.
 
-I have the src and i will say there inject method is really shit, but it iis free.
-
-This version does allow themes, however finding those themes are hard.
+Notes:
+- This version is confirmed working and currently undetected.
+- I have access to the source code, and the injection method used isn’t great — but it’s free, so expectations shouldn’t be too high.
+- Theme support is included, though finding compatible themes can be difficult.
 
 ---
 
