@@ -1,3 +1,8 @@
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-29 00-24-24" src="https://github.com/user-attachments/assets/6aeea083-ea55-46c6-bd28-665b514ad8b2" />
+
+---
+
 Family Mod Menu — Full Version
 ----------------------------------
 
@@ -14,9 +19,6 @@ Notes:
 - I have access to the source code, and the injection method used isn’t great but it’s free, so expectations shouldn’t be too high.
 - Theme support is included, though finding compatible themes can be difficult. in a text box 
 
-
----
-
 # Required Software Links
 
 • Microsoft Visual
@@ -28,7 +30,3 @@ Notes:
 • Windows SDK
   Download https://developer.microsoft.com/en-us/windows/downloads
 
-
-
-
-<img width="1920" height="1080" alt="Screenshot 2025-07-29 00-24-24" src="https://github.com/user-attachments/assets/6aeea083-ea55-46c6-bd28-665b514ad8b2" />
