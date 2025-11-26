@@ -30,7 +30,9 @@ Notes:
   Download: https://dotnet.microsoft.com/en-us/download/dotnet
 
 
+## Tut Vid
 
+https://mega.nz/file/WoICCDoI#95NoWxXtOeAOWnmWOU2-YRxKm6Oy21f64ak0NCBb-bs
 
 
 
