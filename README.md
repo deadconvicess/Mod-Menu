@@ -31,4 +31,9 @@ Notes:
 • Desktop Runtime
   Download: https://dotnet.microsoft.com/en-us/download/dotnet
 
+---
+
+## Tut Vid
+![20251125230410_1](https://github.com/user-attachments/assets/feefb175-a972-4ba7-a893-c1efe9f44c3b)
+
 
