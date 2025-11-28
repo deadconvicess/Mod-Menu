@@ -1,7 +1,5 @@
-## Fully Und Rdr2 Online Mod Menus
 
-
-## Setup
+## Menu Setup
 
 1. Download the menu zip.
 2. Launch Rdr2.
